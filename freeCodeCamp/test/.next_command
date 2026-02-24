@@ -171,3 +171,4 @@ ls --color=auto
 rm background.jog
 ls --color=auto
 touch background.jpg
+cd ../../..
