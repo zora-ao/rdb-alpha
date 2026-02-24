@@ -131,3 +131,4 @@ ls --color=auto
 touch lato.font
 ls --color=auto
 mv lato.font lato.ttf
+mv menlo.font menlo.otf
