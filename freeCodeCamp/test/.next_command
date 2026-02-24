@@ -145,3 +145,4 @@ rm fofnts
 ls --color=auto
 touch menlo.otf
 mv menlo.otf fonts
+find
