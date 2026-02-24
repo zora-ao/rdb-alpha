@@ -166,3 +166,8 @@ mkdir assets
 cd assets
 mkdir images
 cd images
+touch background.jog
+ls --color=auto
+rm background.jog
+ls --color=auto
+touch background.jpg
