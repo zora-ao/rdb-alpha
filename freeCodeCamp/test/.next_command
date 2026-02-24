@@ -172,3 +172,4 @@ rm background.jog
 ls --color=auto
 touch background.jpg
 cd ../../..
+cd images
