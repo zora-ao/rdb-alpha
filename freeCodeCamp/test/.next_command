@@ -258,3 +258,4 @@ cp -r toms-website
 mkdir toms-website
 rm -r toms-website
 cp -r website-boilerplate toms-website
+ls --color=auto
