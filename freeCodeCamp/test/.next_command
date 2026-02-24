@@ -42,3 +42,5 @@ ls --color=auto
 cd freeCodeCamp
 pwd
 ls --color=auto
+__vsc_prompt_cmd_original
+cd test
