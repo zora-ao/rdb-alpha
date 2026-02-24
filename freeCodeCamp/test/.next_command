@@ -204,3 +204,4 @@ ls --color=auto
 mv footer.jpeg images
 ls --color=auto
 mv images/footer.jpeg client/assets/images
+find
